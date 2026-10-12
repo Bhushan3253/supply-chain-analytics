@@ -1,0 +1,13 @@
+column,failed_numeric_conversions,negative_values,zero_values,missing_after_conversion
+sales,0,0,0,0
+order_profit_per_order,0,33784,1177,0
+order_item_quantity,0,0,0,0
+order_item_product_price,0,0,0,0
+order_item_discount,0,0,10028,0
+order_item_discount_rate,0,0,10028,0
+order_item_total,0,0,0,0
+days_for_shipping_real,0,0,5080,0
+days_for_shipment_scheduled,0,0,9737,0
+late_delivery_risk,0,0,81542,0
+benefit_per_order,0,33784,1177,0
+sales_per_customer,0,0,0,0
